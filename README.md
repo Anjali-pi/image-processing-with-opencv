@@ -1,4 +1,4 @@
-# Image Processing with OpenCV: A Computer Vision Learning Project
+## Image Processing with OpenCV: A Computer Vision Learning Project
 
 ##About the Project
 
@@ -6,7 +6,7 @@ This repository contains a structured collection of OpenCV programs covering fun
 
 The goal is to build strong foundational knowledge in Computer Vision through practical implementation.
 
-📁 Repository Structure
+## Repository Structure
 
 opencv-learning/
 
@@ -75,7 +75,8 @@ Frame resizing and annotation
 4.Matplotlib
 5.Jupyter Notebook
 
-📂 Input Files
+## Input Files
+ 
 ##Sample images (.jpg, .png)
 ##Sample video (.mp4) used for processing (not uploaded due to GitHub size limits)
 
@@ -116,7 +117,7 @@ Surveillance systems
 Autonomous systems (basic vision)
 AI & Machine Learning preprocessing
 
-👩‍💻 Author
+## Author
 Anjali Singh Yadav
 
 # Project Type
