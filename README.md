@@ -6,6 +6,7 @@ This repository contains a structured collection of OpenCV programs covering fun
 The goal is to build strong foundational knowledge in Computer Vision through practical implementation.
 
 📁 Repository Structure
+
 opencv-learning/
 │
 ├── 01_images_read_and_write/
