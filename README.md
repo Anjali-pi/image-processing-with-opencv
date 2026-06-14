@@ -1,13 +1,12 @@
 # Image Processing with OpenCV: A Computer Vision Learning Project
 
 ##About the Project
+
 This repository contains a structured collection of OpenCV programs covering fundamental to intermediate computer vision concepts. It demonstrates image processing, filtering, transformations, color analysis, and video processing using Python.
 
 The goal is to build strong foundational knowledge in Computer Vision through practical implementation.
 
-
 📁 Repository Structure
-
 
 opencv-learning/
 │
