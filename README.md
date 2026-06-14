@@ -69,10 +69,15 @@ Contour detection in video
 Frame resizing and annotation
 
 ## Technologies Used
-1.Python 
+
+1.Python
+
 2.OpenCV (cv2)
+
 3.NumPy
+
 4.Matplotlib
+
 5.Jupyter Notebook
 
 ## Input Files
