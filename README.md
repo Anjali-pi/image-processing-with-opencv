@@ -8,7 +8,7 @@ The goal is to build strong foundational knowledge in Computer Vision through pr
 
 ## Repository Structure
 
-opencv-learning/
+image-processing with-opencv/
 
 ├── 01_images_read_and_write/
 
